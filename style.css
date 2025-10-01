@@ -30,6 +30,7 @@ main {
 }
 
 img {
-    max-width: 50%;
+    width: auto;
+    height: auto;
 }
 
